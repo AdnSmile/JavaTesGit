@@ -16,8 +16,10 @@ public class JavaTesGit {
         System.out.println("Vano join the game");
         System.out.println("Mantep nooo aku udah bisa pull, ini mau push lagi");
         
-        System.out.println("tessss buat konflik");
+        System.out.println("tessss buat konflik edit conflict -vano");
         
+        System.out.println("Tes after Conflict");
+        System.out.println("edit ");
     }
     
 }
