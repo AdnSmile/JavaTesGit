@@ -17,7 +17,7 @@ public class JavaTesGit {
         System.out.println("Mantep nooo aku udah bisa pull, ini mau push lagi");
         
         System.out.println("tessss buat konflik");
-                
+        
     }
     
 }
