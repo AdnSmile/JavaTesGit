@@ -14,12 +14,10 @@ public class JavaTesGit {
     public static void main(String[] args) {
         System.out.println("tolong tulis code apa aja yaa trus comit jangan lupa kasih komen kalian");
         System.out.println("Vano join the game");
-        System.out.println("Mantep nooo aku udah bisa pull, ini mau push lagi");
+        System.out.println("Mantep nooo aku udah bisa pull, ini mau push lagi\n");
         
-        System.out.println("tessss buat konflik edit conflict -vano");
-        
-        System.out.println("Tes after Conflict");
-        System.out.println("edit ");
+        Mahasiswa m1 = new Mahasiswa("Nessa", "200710686", 4.5);
+        m1.showData();
     }
     
 }
